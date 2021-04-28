@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kissagoston/weather.git/static/css/main.0a9896fc.chunk.css",
+    "main.js": "/kissagoston/weather.git/static/js/main.cf942644.chunk.js",
+    "main.js.map": "/kissagoston/weather.git/static/js/main.cf942644.chunk.js.map",
+    "runtime-main.js": "/kissagoston/weather.git/static/js/runtime-main.c9ad31eb.js",
+    "runtime-main.js.map": "/kissagoston/weather.git/static/js/runtime-main.c9ad31eb.js.map",
+    "static/js/2.47cc2b32.chunk.js": "/kissagoston/weather.git/static/js/2.47cc2b32.chunk.js",
+    "static/js/2.47cc2b32.chunk.js.map": "/kissagoston/weather.git/static/js/2.47cc2b32.chunk.js.map",
+    "index.html": "/kissagoston/weather.git/index.html",
+    "static/css/main.0a9896fc.chunk.css.map": "/kissagoston/weather.git/static/css/main.0a9896fc.chunk.css.map",
+    "static/js/2.47cc2b32.chunk.js.LICENSE.txt": "/kissagoston/weather.git/static/js/2.47cc2b32.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kissagoston/weather.git/static/media/neutral.f6ad9196.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9ad31eb.js",
+    "static/js/2.47cc2b32.chunk.js",
+    "static/css/main.0a9896fc.chunk.css",
+    "static/js/main.cf942644.chunk.js"
+  ]
+}
