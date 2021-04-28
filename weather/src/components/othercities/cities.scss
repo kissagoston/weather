@@ -1,0 +1,52 @@
+*{padding:0;box-sizing: border-box;}
+
+.App{ margin:0;
+ 
+}
+
+.find-my-products-wrapper{
+    margin: 40px;
+}
+
+.find-my-products{
+ 
+   display: flex;
+   gap:3vw;
+   flex-wrap: wrap;
+   align-content: center;
+   justify-content: center;
+    .ul-list{
+        list-style: none;
+      /*   border:1px solid gray;
+        border-radius: 10px; */
+        padding:3vw;
+        width:40vw;
+    }
+
+     .product-image{
+         //height:300px;
+         width:35vw;
+     }
+}
+ 
+.search{
+    font-weight: bold;
+    color:red;
+}
+
+.text-small{
+    font-size: small;
+}
+
+form{text-align: center;}
+
+#searchInput ,#cityList {
+	background-color: rgb(135, 159, 228);
+	border: none;
+	overflow: hidden;
+	padding: 7px;
+    outline: none;
+    option{
+        padding:5px;
+    }
+}

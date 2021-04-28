@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.App {
+  margin: 0;
+}
+
+.find-my-products-wrapper {
+  margin: 40px;
+}
+
+.find-my-products {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 3vw;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.find-my-products .ul-list {
+  list-style: none;
+  /*   border:1px solid gray;
+        border-radius: 10px; */
+  padding: 3vw;
+  width: 40vw;
+}
+
+.find-my-products .product-image {
+  width: 35vw;
+}
+
+.search {
+  font-weight: bold;
+  color: red;
+}
+
+.text-small {
+  font-size: small;
+}
+
+form {
+  text-align: center;
+}
+
+#searchInput, #cityList {
+  background-color: #879fe4;
+  border: none;
+  overflow: hidden;
+  padding: 7px;
+  outline: none;
+}
+
+#searchInput option, #cityList option {
+  padding: 5px;
+}
+/*# sourceMappingURL=cities.css.map */
